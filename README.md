@@ -5,7 +5,7 @@ DemoBlaze Store is an E-Commerce page to buy electronic devices online.
 - Implemented using BDD-Cucumber framework.
 - And later I deployed the project on GitHub.
 
-**Technologies used:**
+# Technologies Applied
 
   -    Java
   -    Selenium Webdriver
